@@ -36,7 +36,7 @@ jobs:
       matrix:
         unifi_version:
           - stable-5
-          - stable-6
+          - v6
         terraform_version:
           - '0.13.7'
           - '0.14.11'
